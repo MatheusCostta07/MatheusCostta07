@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Olá, me chamo Matheus, tenho 15 anos e sou iniciante no mundo da computação/programação, estou sujeito a dicas e opiniões
+
 <!--
 **MatheusCostta07/MatheusCostta07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
