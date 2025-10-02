@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
-<h3 align="center">I'm a 15-year-old student from Brazil, currently studying Systems Development.</h3>
+<h3 align="center">I'm a 17-year-old student from Brazil, currently studying Systems Development.</h3>
 
 - 🔭 I’m currently learning about software development and exploring the field of **Data Analysis**.
 
