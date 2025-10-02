@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
-<h3 align="center">I'm a novice computing/programming student, I'm 15 years old and I live in Brazil.</h3>
+<h3 align="center">I'm a 15-year-old student from Brazil, currently studying Systems Development.</h3>
 
-- 🔭 I’m currently working on **Software and website development**
+- 🔭 I’m currently learning about software development and exploring the field of **Data Analysis**.
 
-- 🌱 I’m currently learning **database, web programming, systems analysis and design, programming techniques and algorithms and digital design.**
+- 🌱 I’m studying programming, databases, web development, systems analysis, and digital design.
 
-- 👯 I’m looking to collaborate on **Front-end development.**
+- 👯 I’m looking to collaborate on front-end projects and beginner data analysis tasks.
 
-- 🤝 I’m looking for help with **learning javascript,CSS and HTML.**
+- 🤝 I’m looking for help with JavaScript, CSS, HTML, and tools for data analysis.
 
 - 📫 How to reach me **matheucostta0711@gmail.com**
 
