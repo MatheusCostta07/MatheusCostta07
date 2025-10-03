@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning about software development and exploring the field of **Data Analysis**.
 
-- 🌱 I’m studying programming, databases, web development, systems analysis, and digital design.
+- 🌱 I’m studying programming, databases, web development and systems analysis.
 
 - 👯 I’m looking to collaborate on front-end projects and beginner data analysis tasks.
 
